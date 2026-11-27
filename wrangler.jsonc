@@ -1,5 +1,5 @@
 {
-  "name": "uptime-polaris",
+  "name": "uptimepolaris",
   "main": "backends/worker/src/index.ts",
   "compatibility_date": "2025-01-01",
   "compatibility_flags": ["nodejs_compat", "global_fetch_strictly_public"],
